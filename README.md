@@ -6,4 +6,4 @@ Java project developed as part of a OOP course. This application allows to plan 
 
 # Screenshots
 
-![Application main window](./public/main_window.png)
+![Application main window](https://github.com/oschweitzer/itinerary-planning/blob/master/public/main_window.PNG)
